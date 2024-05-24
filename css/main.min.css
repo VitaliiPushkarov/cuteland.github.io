@@ -1375,6 +1375,9 @@ h3 {
   .container-tp {
     width: 330px;
   }
+  .section-hero-wrapper {
+    max-width: 100vw;
+  }
   .paragraph {
     font-size: 4.2vw;
     line-height: 5.2vw;
